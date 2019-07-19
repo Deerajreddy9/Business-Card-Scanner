@@ -42,3 +42,4 @@ Prerequisites:
   
 8.	Install pymysql python package in command prompt by typing the following command.
 					pip install PyMySQL
+
