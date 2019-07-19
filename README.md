@@ -16,14 +16,14 @@ Prerequisites:
 
 # Installation:
 1.	Install pytesseract python package in command prompt by typing the following command.
-								**pip install pytesseract
+								**pip install pytesseract**
 
 2.	Install tesseract OCR your preferred version from [here](https://digi.bib.uni-mannheim.de/tesseract/). Please don’t go with alpha version and download the version which we had from [here](https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w64-setup-v4.1.0-elag2019.exe).
 
 3.	Install pillow python package in command prompt by typing the following command.
-								**pip install Pillow
+								**pip install Pillow**
 4.	Install selenium python package in command prompt by typing the following command.
-								**pip install selenium
+								**pip install selenium**
 
 5.	Install Chrome web driver and make sure that your chrome browser version matches with installing web driver version. You can download it from [here](http://chromedriver.chromium.org/downloads).
 
@@ -41,5 +41,5 @@ Prerequisites:
 					);
   
 8.	Install pymysql python package in command prompt by typing the following command.
-					**pip install PyMySQL
+					**pip install PyMySQL**
 
